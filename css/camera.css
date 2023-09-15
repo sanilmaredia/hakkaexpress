@@ -27,6 +27,12 @@
     top: 60px;
   }
 }
+@media (max-width: 525px) {
+  .camera_container .brand_name {
+    font-size: 96px;
+    line-height: 98px;
+  }
+}
 @media (max-width: 934.58248356px) {
   .camera_container {
     padding-bottom: 480px;
