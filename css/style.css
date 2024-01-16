@@ -774,7 +774,6 @@ main {
   }
 }
 .gallery_col-2 {
-  float: left;
   width: 38.96443514644351%;
 }
 @media (max-width: 767px) {
